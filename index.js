@@ -61,7 +61,7 @@ const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8383854450:AAG3G0b8IKKXXFmy
 const TECHYINDIA_API_KEY = process.env.TECHYINDIA_API_KEY || '61758cd4a6dc0fedfc718f7cc29f525b';
 
 // MySQL (shared hosting)
-const DB_HOST = process.env.DB_HOST || 'cashearnersofficial.xyz';
+const DB_HOST = process.env.DB_HOST || '54.38.84.16';
 const DB_USER = process.env.DB_USER || 'cztldhwx_UpayOtpFast';
 const DB_PASS = process.env.DB_PASS || 'Aptap786920';
 const DB_NAME = process.env.DB_NAME || 'cztldhwx_UpayOtpFast';
