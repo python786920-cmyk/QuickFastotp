@@ -57,17 +57,17 @@ const bodyParser = require('body-parser');
 // ============ CONFIG ============
 
 // Render / local ENV
-const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || 'PUT_TELEGRAM_BOT_TOKEN_HERE';
-const TECHYINDIA_API_KEY = process.env.TECHYINDIA_API_KEY || 'PUT_TECHYINDIA_API_KEY_HERE';
+const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8383854450:AAG3G0b8IKKXXFmyxZoPB42h1GMxgJtf35c';
+const TECHYINDIA_API_KEY = process.env.TECHYINDIA_API_KEY || '61758cd4a6dc0fedfc718f7cc29f525b';
 
 // MySQL (shared hosting)
-const DB_HOST = process.env.DB_HOST || 'your-mysql-host';
-const DB_USER = process.env.DB_USER || 'your-mysql-user';
-const DB_PASS = process.env.DB_PASS || 'your-mysql-pass';
-const DB_NAME = process.env.DB_NAME || 'your-mysql-db';
+const DB_HOST = process.env.DB_HOST || 'cashearnersofficial.xyz';
+const DB_USER = process.env.DB_USER || 'cztldhwx_UpayOtpFast';
+const DB_PASS = process.env.DB_PASS || 'Aptap786920';
+const DB_NAME = process.env.DB_NAME || 'cztldhwx_UpayOtpFast';
 
 // Admin panel secret key (simple protection)
-const ADMIN_PANEL_KEY = process.env.ADMIN_PANEL_KEY || 'supersecretkey';
+const ADMIN_PANEL_KEY = process.env.ADMIN_PANEL_KEY || 'Aptap786920';
 
 // Country (TechyIndia → India code 22)
 const TECHYINDIA_COUNTRY = '22';
